@@ -1,0 +1,14 @@
+2021-10-20 17:29:41,490  INFO [main] AtlanticBooks:46 - landing at home page
+2021-10-20 17:29:44,201  INFO [main] AtlanticBooks:51 - clicked on sign button
+2021-10-20 17:29:45,216  INFO [main] AtlanticBooks:70 - BantiRathod@gmail.com entered
+2021-10-20 17:29:45,509  INFO [main] AtlanticBooks:73 - banti@123 entered
+2021-10-20 17:29:49,167  INFO [main] AtlanticBooks:75 - clicked on summit button
+2021-10-20 17:29:49,612  INFO [main] AtlanticBooks:70 - AnilRathod@gmail.com entered
+2021-10-20 17:29:49,816  INFO [main] AtlanticBooks:73 - Anil@123 entered
+2021-10-20 17:29:49,969  INFO [main] AtlanticBooks:75 - clicked on summit button
+2021-10-20 17:29:50,539  INFO [main] AtlanticBooks:70 - defenceaspirants87@gmail.com entered
+2021-10-20 17:29:50,715  INFO [main] AtlanticBooks:73 - Banti#4321 entered
+2021-10-20 17:29:50,825  INFO [main] AtlanticBooks:75 - clicked on summit button
+2021-10-20 17:29:54,669  INFO [main] AtlanticBooks:90 - enterd product name
+2021-10-20 17:29:59,452  INFO [main] AtlanticBooks:107 - selected serach product
+2021-10-20 17:30:09,949  INFO [main] AtlanticBooks:127 - prodeuct added into card successfully
