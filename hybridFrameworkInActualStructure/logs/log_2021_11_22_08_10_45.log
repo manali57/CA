@@ -1,0 +1,18 @@
+2021-11-22 10:09:12,006  INFO [main] BigSmall:61 - landing at home page
+2021-11-22 10:09:16,755  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-22 10:09:17,320  INFO [main] BigSmall:96 -  entered
+2021-11-22 10:09:17,486  INFO [main] BigSmall:99 -  entered
+2021-11-22 10:09:25,487  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-22 10:09:33,895  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-22 10:09:34,592  INFO [main] BigSmall:96 - abcd@123 entered
+2021-11-22 10:09:34,815  INFO [main] BigSmall:99 - abcd entered
+2021-11-22 10:09:38,511  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-22 10:09:46,381  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-22 10:09:47,341  INFO [main] BigSmall:96 - manalishewale@gmail.com entered
+2021-11-22 10:09:47,530  INFO [main] BigSmall:99 - Abcd@123 entered
+2021-11-22 10:09:52,014  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-22 10:10:07,097  INFO [main] BigSmall:119 - Successfully Sorted Products High to Low based on price
+2021-11-22 10:10:23,363  INFO [main] BigSmall:136 - enterd product name
+2021-11-22 10:10:23,668  INFO [main] BigSmall:139 - Succesfully verified products are display!!
+2021-11-22 10:10:33,113  INFO [main] BigSmall:149 - Succesfully navigated to christmasgift
+2021-11-22 10:10:48,619  INFO [main] BigSmall:157 - Product added

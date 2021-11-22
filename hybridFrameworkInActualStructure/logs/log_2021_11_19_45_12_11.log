@@ -1,0 +1,18 @@
+2021-11-19 12:45:28,373  INFO [main] BigSmall:61 - landing at home page
+2021-11-19 12:45:32,078  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-19 12:45:33,126  INFO [main] BigSmall:96 -  entered
+2021-11-19 12:45:33,382  INFO [main] BigSmall:99 -  entered
+2021-11-19 12:45:37,401  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-19 12:45:54,088  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-19 12:45:56,351  INFO [main] BigSmall:96 - simon@123 entered
+2021-11-19 12:45:57,125  INFO [main] BigSmall:99 - abcd entered
+2021-11-19 12:45:57,319  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-19 12:46:05,532  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-19 12:46:06,352  INFO [main] BigSmall:96 - JackNJill@gmail.com entered
+2021-11-19 12:46:06,608  INFO [main] BigSmall:99 - JackNJill@123 entered
+2021-11-19 12:46:09,734  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-19 12:46:27,492  INFO [main] BigSmall:119 - Successfully Sorted Products High to Low based on price
+2021-11-19 12:46:43,198  INFO [main] BigSmall:136 - enterd product name
+2021-11-19 12:46:43,781  INFO [main] BigSmall:139 - Succesfully verified products are display!!
+2021-11-19 12:46:52,082  INFO [main] BigSmall:149 - Succesfully navigated to christmasgift
+2021-11-19 12:47:02,125  INFO [main] BigSmall:157 - Product added

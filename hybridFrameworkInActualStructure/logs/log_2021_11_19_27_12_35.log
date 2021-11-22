@@ -1,0 +1,30 @@
+2021-11-19 12:27:48,821  INFO [main] BigSmall:61 - landing at home page
+2021-11-19 12:27:52,452  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-19 12:27:53,061  INFO [main] BigSmall:96 -  entered
+2021-11-19 12:27:53,273  INFO [main] BigSmall:99 -  entered
+2021-11-19 12:27:58,953  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-19 12:28:06,124  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-19 12:28:07,051  INFO [main] BigSmall:96 - simon@123 entered
+2021-11-19 12:28:07,294  INFO [main] BigSmall:99 - abcd entered
+2021-11-19 12:28:07,506  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-19 12:28:14,918  INFO [main] BigSmall:88 - clicked on sign button
+2021-11-19 12:28:15,647  INFO [main] BigSmall:96 - JackNJill@gmail.com entered
+2021-11-19 12:28:15,916  INFO [main] BigSmall:99 - JackNJill@123 entered
+2021-11-19 12:28:19,703  INFO [main] BigSmall:103 - clicked on submit button
+2021-11-19 12:28:34,065  INFO [main] BigSmall:119 - Successfully Sorted Products High to Low based on price
+2021-11-19 12:28:46,753  INFO [main] BigSmall:136 - enterd product name
+2021-11-19 12:28:47,209  INFO [main] BigSmall:139 - Succesfully verified products are display!!
+2021-11-19 12:28:54,651  INFO [main] BigSmall:149 - Succesfully navigated to christmasgift
+2021-11-19 12:29:08,553  INFO [main] BigSmall:157 - Product added
+2021-11-19 12:29:30,965  INFO [main] BigSmall:166 - Check out and returned to cart
+2021-11-19 12:29:54,575  INFO [main] BigSmall:180 - Added to wishlist
+2021-11-19 12:30:03,091  INFO [main] BigSmall:191 - Navigated to AllOfIt Page
+2021-11-19 12:30:03,174  INFO [main] BigSmall:194 - Verified Auto Rickshaw Pen Stand
+2021-11-19 12:30:09,926  INFO [main] BigSmall:202 - Wishlist Page
+2021-11-19 12:30:12,255  INFO [main] BigSmall:209 - Products displayed in Wishlist
+2021-11-19 12:30:18,498  INFO [main] BigSmall:217 - About Us Page
+2021-11-19 12:30:18,660  INFO [main] BigSmall:220 - Verified title of About Us Page
+2021-11-19 12:30:25,837  INFO [main] BigSmall:228 - Gift Cards Page
+2021-11-19 12:30:28,335  INFO [main] BigSmall:232 - Giftcard added to cart
+2021-11-19 12:30:28,427  INFO [main] BigSmall:235 - Cart Verified
+2021-11-19 12:30:36,605  INFO [main] BigSmall:253 - Title verified successfully 

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-22T10:11:38 IST" name="Default suite" finished-at="2021-11-22T10:14:33 IST" duration-ms="174393">
+    <groups>
+    </groups>
+    <test started-at="2021-11-22T10:11:38 IST" name="Default test" finished-at="2021-11-22T10:14:33 IST" duration-ms="174393">
+      <class name="com.mindtree.runner.BigSmall">
+        <test-method signature="homePageLanding()[pri:1, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:11:38 IST" name="homePageLanding" finished-at="2021-11-22T10:11:56 IST" duration-ms="18111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLanding -->
+        <test-method signature="signInTesting(java.lang.String,java.lang.String)[pri:2, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:11:56 IST" name="signInTesting" data-provider="dataSuplier" finished-at="2021-11-22T10:12:09 IST" duration-ms="12356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTesting -->
+        <test-method signature="signInTesting(java.lang.String,java.lang.String)[pri:2, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:12:09 IST" name="signInTesting" data-provider="dataSuplier" finished-at="2021-11-22T10:12:21 IST" duration-ms="11982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTesting -->
+        <test-method signature="signInTesting(java.lang.String,java.lang.String)[pri:2, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:12:21 IST" name="signInTesting" data-provider="dataSuplier" finished-at="2021-11-22T10:12:29 IST" duration-ms="8614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manalishewale@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Abcd@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTesting -->
+        <test-method signature="PersonalizedGift()[pri:3, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:12:29 IST" name="PersonalizedGift" finished-at="2021-11-22T10:12:39 IST" duration-ms="9770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalizedGift -->
+        <test-method signature="searchProduct()[pri:4, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:12:39 IST" name="searchProduct" finished-at="2021-11-22T10:12:50 IST" duration-ms="10380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="Christmasgift()[pri:5, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:12:50 IST" name="Christmasgift" finished-at="2021-11-22T10:13:36 IST" duration-ms="46193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Christmasgift -->
+        <test-method signature="ShopbyCategory()[pri:6, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:13:36 IST" name="ShopbyCategory" finished-at="2021-11-22T10:13:51 IST" duration-ms="14835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopbyCategory -->
+        <test-method signature="AllofIt()[pri:7, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:13:51 IST" name="AllofIt" finished-at="2021-11-22T10:13:59 IST" duration-ms="8176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllofIt -->
+        <test-method signature="Wishlist()[pri:8, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:13:59 IST" name="Wishlist" finished-at="2021-11-22T10:14:09 IST" duration-ms="9925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wishlist -->
+        <test-method signature="AboutUs()[pri:9, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:14:09 IST" name="AboutUs" finished-at="2021-11-22T10:14:15 IST" duration-ms="6479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method signature="GiftCard()[pri:10, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:14:15 IST" name="GiftCard" finished-at="2021-11-22T10:14:24 IST" duration-ms="9171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCard -->
+        <test-method signature="ContactUsPage()[pri:11, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:14:24 IST" name="ContactUsPage" finished-at="2021-11-22T10:14:32 IST" duration-ms="7922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsPage -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.mindtree.runner.BigSmall@609e8838]" started-at="2021-11-22T10:14:32 IST" name="closeDriver" finished-at="2021-11-22T10:14:33 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.mindtree.runner.BigSmall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
